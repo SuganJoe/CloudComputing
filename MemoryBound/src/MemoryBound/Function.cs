@@ -16,19 +16,6 @@ namespace MemoryBound
 {
     public class Function
     {
-        private List<byte[]> AllocateMemory(int input)
-        {
-            var list = new List<byte[]>();
-            int i = 0;
-            while (i < 10)
-            {
-                list.Add(new byte[input * 1024 * 1024]); // Change the size here.
-                Thread.Sleep(1000); // Change the wait time here.
-                i++;
-            }
-            return list;
-        }
-
         /// <summary>
         /// A simple function that takes a string and does a ToUpper
         /// </summary>
@@ -37,9 +24,21 @@ namespace MemoryBound
         /// <returns></returns>
         public string FunctionHandler(int input, ILambdaContext context)
         {
-            var l = AllocateMemory(input);
-            long memory = GC.GetTotalMemory(false) / (1024 * 1024);
-            return "Done " + memory.ToString();
+            var startTime = DateTime.UtcNow;
+            int len = input * 1024 * 1024;
+            int[] arr = new int[len];
+            for (int i = 0; i < len; i += 1000)
+                arr[i] = i;
+            for (int i = 0; i < len; i += 10000)
+                arr[i] = i;
+            for (int i = 0; i < len; i += 100000)
+                arr[i] = i;
+
+            Console.WriteLine((DateTime.UtcNow - startTime).TotalMilliseconds);
+            long memoryInMB = (System.Diagnostics.Process.GetCurrentProcess().WorkingSet64) / (1024*1024);
+            Console.WriteLine(memoryInMB);
+
+            return "Done " + memoryInMB.ToString();
         }
     }
 }
