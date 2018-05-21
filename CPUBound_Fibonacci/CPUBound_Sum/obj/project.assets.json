@@ -3387,11 +3387,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\sugan\\source\\repos\\CPUBound_Fibonacci\\CPUBound_Sum\\CPUBound_Fibonacci.csproj",
+      "projectUniqueName": "D:\\Courses\\Spring2018\\SoftCloudComputing\\Git\\CloudComputing\\CPUBound_Fibonacci\\CPUBound_Sum\\CPUBound_Fibonacci.csproj",
       "projectName": "CPUBound_Fibonacci",
-      "projectPath": "C:\\Users\\sugan\\source\\repos\\CPUBound_Fibonacci\\CPUBound_Sum\\CPUBound_Fibonacci.csproj",
+      "projectPath": "D:\\Courses\\Spring2018\\SoftCloudComputing\\Git\\CloudComputing\\CPUBound_Fibonacci\\CPUBound_Sum\\CPUBound_Fibonacci.csproj",
       "packagesPath": "C:\\Users\\sugan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sugan\\source\\repos\\CPUBound_Fibonacci\\CPUBound_Sum\\obj\\",
+      "outputPath": "D:\\Courses\\Spring2018\\SoftCloudComputing\\Git\\CloudComputing\\CPUBound_Fibonacci\\CPUBound_Sum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

@@ -3359,11 +3359,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\sugan\\source\\repos\\FibonacciCLI\\FibonacciCLI\\FibonacciCLI.csproj",
+      "projectUniqueName": "D:\\Courses\\Spring2018\\SoftCloudComputing\\Git\\CloudComputing\\FibonacciCLI\\FibonacciCLI\\FibonacciCLI.csproj",
       "projectName": "FibonacciCLI",
-      "projectPath": "C:\\Users\\sugan\\source\\repos\\FibonacciCLI\\FibonacciCLI\\FibonacciCLI.csproj",
+      "projectPath": "D:\\Courses\\Spring2018\\SoftCloudComputing\\Git\\CloudComputing\\FibonacciCLI\\FibonacciCLI\\FibonacciCLI.csproj",
       "packagesPath": "C:\\Users\\sugan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sugan\\source\\repos\\FibonacciCLI\\FibonacciCLI\\obj\\",
+      "outputPath": "D:\\Courses\\Spring2018\\SoftCloudComputing\\Git\\CloudComputing\\FibonacciCLI\\FibonacciCLI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
