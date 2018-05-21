@@ -1,0 +1,10 @@
+/Users/khushboo/MemoryBoundHttp/src/MemoryBoundHttp/obj/Release/netcoreapp2.0/linux-x64/MemoryBoundHttp.csproj.CoreCompileInputs.cache
+/Users/khushboo/MemoryBoundHttp/src/MemoryBoundHttp/obj/Release/netcoreapp2.0/linux-x64/MemoryBoundHttp.AssemblyInfoInputs.cache
+/Users/khushboo/MemoryBoundHttp/src/MemoryBoundHttp/obj/Release/netcoreapp2.0/linux-x64/MemoryBoundHttp.AssemblyInfo.cs
+/Users/khushboo/MemoryBoundHttp/src/MemoryBoundHttp/bin/Release/netcoreapp2.0/linux-x64/MemoryBoundHttp.deps.json
+/Users/khushboo/MemoryBoundHttp/src/MemoryBoundHttp/bin/Release/netcoreapp2.0/linux-x64/MemoryBoundHttp.runtimeconfig.json
+/Users/khushboo/MemoryBoundHttp/src/MemoryBoundHttp/bin/Release/netcoreapp2.0/linux-x64/MemoryBoundHttp.runtimeconfig.dev.json
+/Users/khushboo/MemoryBoundHttp/src/MemoryBoundHttp/bin/Release/netcoreapp2.0/linux-x64/MemoryBoundHttp.dll
+/Users/khushboo/MemoryBoundHttp/src/MemoryBoundHttp/bin/Release/netcoreapp2.0/linux-x64/MemoryBoundHttp.pdb
+/Users/khushboo/MemoryBoundHttp/src/MemoryBoundHttp/obj/Release/netcoreapp2.0/linux-x64/MemoryBoundHttp.dll
+/Users/khushboo/MemoryBoundHttp/src/MemoryBoundHttp/obj/Release/netcoreapp2.0/linux-x64/MemoryBoundHttp.pdb
