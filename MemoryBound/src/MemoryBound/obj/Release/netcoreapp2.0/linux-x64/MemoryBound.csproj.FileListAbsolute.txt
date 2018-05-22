@@ -1,0 +1,10 @@
+/Users/khushboo/MemoryBound/src/MemoryBound/bin/Release/netcoreapp2.0/linux-x64/MemoryBound.deps.json
+/Users/khushboo/MemoryBound/src/MemoryBound/bin/Release/netcoreapp2.0/linux-x64/MemoryBound.runtimeconfig.json
+/Users/khushboo/MemoryBound/src/MemoryBound/bin/Release/netcoreapp2.0/linux-x64/MemoryBound.runtimeconfig.dev.json
+/Users/khushboo/MemoryBound/src/MemoryBound/bin/Release/netcoreapp2.0/linux-x64/MemoryBound.dll
+/Users/khushboo/MemoryBound/src/MemoryBound/bin/Release/netcoreapp2.0/linux-x64/MemoryBound.pdb
+/Users/khushboo/MemoryBound/src/MemoryBound/obj/Release/netcoreapp2.0/linux-x64/MemoryBound.csproj.CoreCompileInputs.cache
+/Users/khushboo/MemoryBound/src/MemoryBound/obj/Release/netcoreapp2.0/linux-x64/MemoryBound.AssemblyInfoInputs.cache
+/Users/khushboo/MemoryBound/src/MemoryBound/obj/Release/netcoreapp2.0/linux-x64/MemoryBound.AssemblyInfo.cs
+/Users/khushboo/MemoryBound/src/MemoryBound/obj/Release/netcoreapp2.0/linux-x64/MemoryBound.dll
+/Users/khushboo/MemoryBound/src/MemoryBound/obj/Release/netcoreapp2.0/linux-x64/MemoryBound.pdb

@@ -1,0 +1,10 @@
+/Users/arunprasaath/workspaces/lambda/NetworkIO/src/NetworkIO/bin/Release/netcoreapp2.0/linux-x64/NetworkIO.deps.json
+/Users/arunprasaath/workspaces/lambda/NetworkIO/src/NetworkIO/bin/Release/netcoreapp2.0/linux-x64/NetworkIO.runtimeconfig.json
+/Users/arunprasaath/workspaces/lambda/NetworkIO/src/NetworkIO/bin/Release/netcoreapp2.0/linux-x64/NetworkIO.runtimeconfig.dev.json
+/Users/arunprasaath/workspaces/lambda/NetworkIO/src/NetworkIO/bin/Release/netcoreapp2.0/linux-x64/NetworkIO.dll
+/Users/arunprasaath/workspaces/lambda/NetworkIO/src/NetworkIO/bin/Release/netcoreapp2.0/linux-x64/NetworkIO.pdb
+/Users/arunprasaath/workspaces/lambda/NetworkIO/src/NetworkIO/obj/Release/netcoreapp2.0/linux-x64/NetworkIO.csproj.CoreCompileInputs.cache
+/Users/arunprasaath/workspaces/lambda/NetworkIO/src/NetworkIO/obj/Release/netcoreapp2.0/linux-x64/NetworkIO.AssemblyInfoInputs.cache
+/Users/arunprasaath/workspaces/lambda/NetworkIO/src/NetworkIO/obj/Release/netcoreapp2.0/linux-x64/NetworkIO.AssemblyInfo.cs
+/Users/arunprasaath/workspaces/lambda/NetworkIO/src/NetworkIO/obj/Release/netcoreapp2.0/linux-x64/NetworkIO.dll
+/Users/arunprasaath/workspaces/lambda/NetworkIO/src/NetworkIO/obj/Release/netcoreapp2.0/linux-x64/NetworkIO.pdb
