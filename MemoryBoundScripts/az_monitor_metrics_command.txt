@@ -1,0 +1,1 @@
+az monitor metrics list --resource /subscriptions/c829802e-a85e-4488-805b-bc3944edad19/resourceGroups/memorybound/providers/Microsoft.Web/sites/memorybound --metric FunctionExecutionCount,FunctionExecutionUnits,MemoryWorkingSet --aggregation Total --start-time 2018-05-30T09:46:00Z --end-time 2018-05-30T09:49:00Z | python <path_to_azurememory.py>

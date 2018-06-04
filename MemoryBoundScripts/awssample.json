@@ -1,0 +1,17 @@
+{
+    "searchedLogStreams": [
+        {
+            "searchedCompletely": true, 
+            "logStreamName": "2018/05/29/[$LATEST]bf819931ad634f088c9c68076ca16873"
+        }
+    ], 
+    "events": [
+        {
+            "ingestionTime": 1527571746584, 
+            "timestamp": 1527571746564, 
+            "message": "REPORT RequestId: 33c007c5-6301-11e8-9858-ad24ba9731c7\tDuration: 1025.06 ms\tBilled Duration: 1100 ms \tMemory Size: 256 MB\tMax Memory Used: 77 MB\t\n", 
+            "eventId": "34065988292598160920601714660698924426195507350395813889", 
+            "logStreamName": "2018/05/29/[$LATEST]bf819931ad634f088c9c68076ca16873"
+        }
+    ]
+}

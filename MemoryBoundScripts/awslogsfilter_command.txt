@@ -1,0 +1,1 @@
+aws logs filter-log-events --log-group-name '/aws/lambda/<FunctionName>' --profile khushb --region us-east-1 --filter-pattern 'Memory Used' --start-time 1527662450000 --end-time 1527662498000 | python <path_to_awsmemory.py>
