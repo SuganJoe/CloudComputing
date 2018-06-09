@@ -1,0 +1,10 @@
+/Users/arunprasaath/BlogFunction/src/BlogFunction/bin/Release/netcoreapp2.0/linux-x64/BlogFunction.deps.json
+/Users/arunprasaath/BlogFunction/src/BlogFunction/bin/Release/netcoreapp2.0/linux-x64/BlogFunction.runtimeconfig.json
+/Users/arunprasaath/BlogFunction/src/BlogFunction/bin/Release/netcoreapp2.0/linux-x64/BlogFunction.runtimeconfig.dev.json
+/Users/arunprasaath/BlogFunction/src/BlogFunction/bin/Release/netcoreapp2.0/linux-x64/BlogFunction.dll
+/Users/arunprasaath/BlogFunction/src/BlogFunction/bin/Release/netcoreapp2.0/linux-x64/BlogFunction.pdb
+/Users/arunprasaath/BlogFunction/src/BlogFunction/obj/Release/netcoreapp2.0/linux-x64/BlogFunction.csproj.CoreCompileInputs.cache
+/Users/arunprasaath/BlogFunction/src/BlogFunction/obj/Release/netcoreapp2.0/linux-x64/BlogFunction.AssemblyInfoInputs.cache
+/Users/arunprasaath/BlogFunction/src/BlogFunction/obj/Release/netcoreapp2.0/linux-x64/BlogFunction.AssemblyInfo.cs
+/Users/arunprasaath/BlogFunction/src/BlogFunction/obj/Release/netcoreapp2.0/linux-x64/BlogFunction.dll
+/Users/arunprasaath/BlogFunction/src/BlogFunction/obj/Release/netcoreapp2.0/linux-x64/BlogFunction.pdb
