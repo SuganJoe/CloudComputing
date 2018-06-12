@@ -1,0 +1,11 @@
+C:\Users\sugan\source\repos\FiboRESTSync\FiboRESTSync\bin\Release\netcoreapp2.0\linux-x64\FiboRESTSync.deps.json
+C:\Users\sugan\source\repos\FiboRESTSync\FiboRESTSync\bin\Release\netcoreapp2.0\linux-x64\FiboRESTSync.runtimeconfig.json
+C:\Users\sugan\source\repos\FiboRESTSync\FiboRESTSync\bin\Release\netcoreapp2.0\linux-x64\FiboRESTSync.runtimeconfig.dev.json
+C:\Users\sugan\source\repos\FiboRESTSync\FiboRESTSync\bin\Release\netcoreapp2.0\linux-x64\FiboRESTSync.dll
+C:\Users\sugan\source\repos\FiboRESTSync\FiboRESTSync\bin\Release\netcoreapp2.0\linux-x64\FiboRESTSync.pdb
+C:\Users\sugan\source\repos\FiboRESTSync\FiboRESTSync\obj\Release\netcoreapp2.0\linux-x64\FiboRESTSync.csprojAssemblyReference.cache
+C:\Users\sugan\source\repos\FiboRESTSync\FiboRESTSync\obj\Release\netcoreapp2.0\linux-x64\FiboRESTSync.csproj.CoreCompileInputs.cache
+C:\Users\sugan\source\repos\FiboRESTSync\FiboRESTSync\obj\Release\netcoreapp2.0\linux-x64\FiboRESTSync.AssemblyInfoInputs.cache
+C:\Users\sugan\source\repos\FiboRESTSync\FiboRESTSync\obj\Release\netcoreapp2.0\linux-x64\FiboRESTSync.AssemblyInfo.cs
+C:\Users\sugan\source\repos\FiboRESTSync\FiboRESTSync\obj\Release\netcoreapp2.0\linux-x64\FiboRESTSync.dll
+C:\Users\sugan\source\repos\FiboRESTSync\FiboRESTSync\obj\Release\netcoreapp2.0\linux-x64\FiboRESTSync.pdb

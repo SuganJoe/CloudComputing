@@ -1,0 +1,11 @@
+C:\Users\sugan\source\repos\FiboRESTSync\FiboRESTSync\obj\Debug\netcoreapp2.0\FiboRESTSync.csproj.CoreCompileInputs.cache
+C:\Users\sugan\source\repos\FiboRESTSync\FiboRESTSync\obj\Debug\netcoreapp2.0\FiboRESTSync.AssemblyInfoInputs.cache
+C:\Users\sugan\source\repos\FiboRESTSync\FiboRESTSync\obj\Debug\netcoreapp2.0\FiboRESTSync.AssemblyInfo.cs
+C:\Users\sugan\source\repos\FiboRESTSync\FiboRESTSync\bin\Debug\netcoreapp2.0\FiboRESTSync.deps.json
+C:\Users\sugan\source\repos\FiboRESTSync\FiboRESTSync\bin\Debug\netcoreapp2.0\FiboRESTSync.runtimeconfig.json
+C:\Users\sugan\source\repos\FiboRESTSync\FiboRESTSync\bin\Debug\netcoreapp2.0\FiboRESTSync.runtimeconfig.dev.json
+C:\Users\sugan\source\repos\FiboRESTSync\FiboRESTSync\bin\Debug\netcoreapp2.0\FiboRESTSync.dll
+C:\Users\sugan\source\repos\FiboRESTSync\FiboRESTSync\bin\Debug\netcoreapp2.0\FiboRESTSync.pdb
+C:\Users\sugan\source\repos\FiboRESTSync\FiboRESTSync\obj\Debug\netcoreapp2.0\FiboRESTSync.dll
+C:\Users\sugan\source\repos\FiboRESTSync\FiboRESTSync\obj\Debug\netcoreapp2.0\FiboRESTSync.pdb
+C:\Users\sugan\source\repos\FiboRESTSync\FiboRESTSync\obj\Debug\netcoreapp2.0\FiboRESTSync.csprojAssemblyReference.cache

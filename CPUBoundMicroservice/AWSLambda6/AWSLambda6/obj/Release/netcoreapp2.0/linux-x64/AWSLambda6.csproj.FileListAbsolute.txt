@@ -1,0 +1,11 @@
+C:\Users\sugan\source\repos\AWSLambda6\AWSLambda6\bin\Release\netcoreapp2.0\linux-x64\AWSLambda6.deps.json
+C:\Users\sugan\source\repos\AWSLambda6\AWSLambda6\bin\Release\netcoreapp2.0\linux-x64\AWSLambda6.runtimeconfig.json
+C:\Users\sugan\source\repos\AWSLambda6\AWSLambda6\bin\Release\netcoreapp2.0\linux-x64\AWSLambda6.runtimeconfig.dev.json
+C:\Users\sugan\source\repos\AWSLambda6\AWSLambda6\bin\Release\netcoreapp2.0\linux-x64\AWSLambda6.dll
+C:\Users\sugan\source\repos\AWSLambda6\AWSLambda6\bin\Release\netcoreapp2.0\linux-x64\AWSLambda6.pdb
+C:\Users\sugan\source\repos\AWSLambda6\AWSLambda6\obj\Release\netcoreapp2.0\linux-x64\AWSLambda6.csprojAssemblyReference.cache
+C:\Users\sugan\source\repos\AWSLambda6\AWSLambda6\obj\Release\netcoreapp2.0\linux-x64\AWSLambda6.csproj.CoreCompileInputs.cache
+C:\Users\sugan\source\repos\AWSLambda6\AWSLambda6\obj\Release\netcoreapp2.0\linux-x64\AWSLambda6.AssemblyInfoInputs.cache
+C:\Users\sugan\source\repos\AWSLambda6\AWSLambda6\obj\Release\netcoreapp2.0\linux-x64\AWSLambda6.AssemblyInfo.cs
+C:\Users\sugan\source\repos\AWSLambda6\AWSLambda6\obj\Release\netcoreapp2.0\linux-x64\AWSLambda6.dll
+C:\Users\sugan\source\repos\AWSLambda6\AWSLambda6\obj\Release\netcoreapp2.0\linux-x64\AWSLambda6.pdb
