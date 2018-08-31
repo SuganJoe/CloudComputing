@@ -1,5 +1,5 @@
 # CloudComputing
-Comparison of serverless computing platforms- AWS Lambda, Azure functions
+Comparison of serverless computing platforms- AWS Lambda, Azure functions in terms of four microservices which are intensive in Disk utilization, CPU Utilization, Network I/o bound and Memory bound.
 
 Prerequisites for AWS and Azure setup:
 
