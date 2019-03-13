@@ -3,7 +3,7 @@ Comparison of serverless computing platforms- AWS Lambda, Azure functions in ter
 
 Prerequisites for AWS and Azure setup:
 
-AWS Prerequisite Commands
+AWS Prerequisite Commands:
 1. pip install awscli --upgrade --user
 2. wget -q packages-microsoft-prod.deb https://packages.microsoft.com/config/ubuntu/16.04/packages-microsoft-prod.deb
 3. ubuntu@ip-10-0-0-52:~$ sudo dpkg -i packages-microsoft-prod.deb
